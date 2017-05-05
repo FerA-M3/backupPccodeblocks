@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1493167052 source:d:\fer\tp2clase\tp2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tp2.h"
+
+1493167039 d:\fer\tp2clase\tp2.h
+
+1493167177 source:d:\fer\tp2clase\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tp2.h"
+
+1493178022 source:e:\adelantotp2\tp2adelantoclase\tp2clase\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tp2.h"
+
+1493177844 e:\adelantotp2\tp2adelantoclase\tp2clase\tp2.h
+
+1493178584 source:e:\adelantotp2\tp2adelantoclase\tp2clase\tp2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tp2.h"
+
+1493348958 source:c:\codeblocks\tp2\tp2adelantoclase\tp2clase\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tp2.h"
+
+1493263237 c:\codeblocks\tp2\tp2adelantoclase\tp2clase\tp2.h
+
+1493348735 source:c:\codeblocks\tp2\tp2adelantoclase\tp2clase\tp2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tp2.h"
+
+1493348958 source:c:\codeblocks\tp2\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tp2.h"
+
+1493349359 c:\codeblocks\tp2\tp2\tp2.h
+
+1493349265 source:c:\codeblocks\tp2\tp2\tp2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tp2.h"
+

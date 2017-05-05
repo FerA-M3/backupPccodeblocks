@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1492286141 source:c:\codeblocks\casa\practica parcial 1\ej4practica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

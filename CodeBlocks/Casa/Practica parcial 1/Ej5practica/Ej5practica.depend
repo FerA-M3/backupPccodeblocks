@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1492289428 source:c:\codeblocks\casa\practica parcial 1\ej5practica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1492289941 c:\codeblocks\casa\practica parcial 1\ej5practica\utn.h
+

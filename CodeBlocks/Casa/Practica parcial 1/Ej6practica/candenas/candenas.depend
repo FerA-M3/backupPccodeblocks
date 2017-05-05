@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1492908390 source:c:\codeblocks\casa\practica parcial 1\ej6practica\candenas\lib.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
+1492908344 c:\codeblocks\casa\practica parcial 1\ej6practica\candenas\lib.h
+
+1492908267 source:c:\codeblocks\casa\practica parcial 1\ej6practica\candenas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+

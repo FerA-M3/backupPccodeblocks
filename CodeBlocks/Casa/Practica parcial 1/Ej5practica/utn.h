@@ -1,0 +1,2 @@
+int getInt(char mensaje[]);
+

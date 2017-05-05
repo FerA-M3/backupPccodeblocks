@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1492996113 source:c:\codeblocks\casa\practica parcial 1\ej7practica\ej7practica\abm.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1492995824 source:c:\codeblocks\casa\practica parcial 1\ej7practica\ej7practica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"abm.h"
+
+1492981705 c:\codeblocks\casa\practica parcial 1\ej7practica\ej7practica\abm.h
+
